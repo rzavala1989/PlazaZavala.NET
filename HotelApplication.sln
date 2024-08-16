@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelAppDataAccess", "HotelAppDataAccess\HotelAppDataAccess.csproj", "{753DE859-E5D0-4758-8100-E746437BC9E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelAppAPI", "HotelAppAPI\HotelAppAPI.csproj", "{A6C5CEBF-A7A2-40AD-A25E-C407F6FF2595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelAppConsole", "HotelAppConsole\HotelAppConsole.csproj", "{3D93290B-A202-4668-9ADA-EDD641630C37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelAppTests", "HotelAppTests\HotelAppTests.csproj", "{48A42C91-158E-46F7-9BC9-94CC8B39CB07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{753DE859-E5D0-4758-8100-E746437BC9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753DE859-E5D0-4758-8100-E746437BC9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753DE859-E5D0-4758-8100-E746437BC9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753DE859-E5D0-4758-8100-E746437BC9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C5CEBF-A7A2-40AD-A25E-C407F6FF2595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C5CEBF-A7A2-40AD-A25E-C407F6FF2595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C5CEBF-A7A2-40AD-A25E-C407F6FF2595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C5CEBF-A7A2-40AD-A25E-C407F6FF2595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D93290B-A202-4668-9ADA-EDD641630C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D93290B-A202-4668-9ADA-EDD641630C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D93290B-A202-4668-9ADA-EDD641630C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D93290B-A202-4668-9ADA-EDD641630C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A42C91-158E-46F7-9BC9-94CC8B39CB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A42C91-158E-46F7-9BC9-94CC8B39CB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A42C91-158E-46F7-9BC9-94CC8B39CB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A42C91-158E-46F7-9BC9-94CC8B39CB07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

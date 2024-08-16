@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/ricardozavala/Library/Caches/JetBrains/Rider2024.1/resharper-host/temp/Rider/vAny/CoverageData/_HotelApplication.-1870621736/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=29568b63_002D0b66_002D4289_002D935e_002Ddae892b44b03/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GuestsControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::48A42C91-158E-46F7-9BC9-94CC8B39CB07::net8.0::HotelAppTests.Controllers.GuestsControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::48A42C91-158E-46F7-9BC9-94CC8B39CB07::net8.0::HotelAppTests.Controllers.BookingsControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::48A42C91-158E-46F7-9BC9-94CC8B39CB07::net8.0::HotelAppTests.Controllers.ReviewsControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::48A42C91-158E-46F7-9BC9-94CC8B39CB07::net8.0::HotelAppTests.Controllers.HotelsControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::48A42C91-158E-46F7-9BC9-94CC8B39CB07::net8.0::HotelAppTests.Controllers.RoomsControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::48A42C91-158E-46F7-9BC9-94CC8B39CB07::net8.0::HotelAppTests.Controllers.RoomTypesControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

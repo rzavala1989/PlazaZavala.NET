@@ -1,0 +1,15 @@
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/bin/Debug/net8.0/appsettings.json
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/bin/Debug/net8.0/HotelAppDataAccess.deps.json
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/bin/Debug/net8.0/HotelAppDataAccess.dll
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/bin/Debug/net8.0/HotelAppDataAccess.pdb
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/obj/Debug/net8.0/HotelAppDataAccess.csproj.AssemblyReference.cache
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/obj/Debug/net8.0/HotelAppDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/obj/Debug/net8.0/HotelAppDataAccess.AssemblyInfoInputs.cache
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/obj/Debug/net8.0/HotelAppDataAccess.AssemblyInfo.cs
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/obj/Debug/net8.0/HotelAppDataAccess.csproj.CoreCompileInputs.cache
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/obj/Debug/net8.0/HotelAppDataAccess.dll
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/obj/Debug/net8.0/refint/HotelAppDataAccess.dll
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/obj/Debug/net8.0/HotelAppDataAccess.pdb
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/obj/Debug/net8.0/ref/HotelAppDataAccess.dll
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/bin/Debug/net8.0/HotelAppDataAccess.runtimeconfig.json
+/Users/ricardozavala/RiderProjects/HotelApplication/HotelAppDataAccess/obj/Debug/net8.0/HotelAppDataAccess.genruntimeconfig.cache
